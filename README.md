@@ -29,7 +29,7 @@ This project is built using core web technologies:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-link-here]
+    git clone https://github.com/MohamedMahmoudHasan/Elite-Homes.git
     ```
 2.  **Navigate to the folder:**
     ```bash
